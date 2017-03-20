@@ -1,4 +1,4 @@
 #git init
 
-#git is a distributed version control sytem
-##git is free software
+# git is a distributed version control sytem
+## Git is free software distributed under the GPL.
