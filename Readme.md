@@ -1,3 +1,4 @@
+#vux的demo 同时回顾下git
 #git init
 
 # git is a distributed version control sytem
